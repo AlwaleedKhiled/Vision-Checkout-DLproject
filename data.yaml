@@ -1,0 +1,24 @@
+path: ../data/FINAL_DATASET
+train: images/train
+val: images/val
+test: images/test
+
+nc: 17
+names:
+  0: puffed_food
+  1: dried_fruit
+  2: dried_food
+  3: instant_drink
+  4: instant_noodles
+  5: dessert
+  6: drink
+  7: alcohol
+  8: milk
+  9: canned_food
+  10: chocolate
+  11: gum
+  12: candy
+  13: seasoner
+  14: personal_hygiene
+  15: tissue
+  16: stationery

@@ -1,0 +1,25 @@
+# Environments
+venv/
+.env
+
+# Data & Large Files
+data/
+*.zip
+*.tar.gz
+runs/
+
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS-specific 
+.DS_Store
+Thumbs.db
+.directory
+
+#Sub-repo
+.claude/
+.streamlit/models/sam3.pt
+runs/
+models/sam3.pt
